@@ -1,0 +1,25 @@
+.title {
+  color: hsl(248, 6%, 73%);
+  }
+
+.iframe {
+  border: none;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.item {
+  flex: 1;
+  justify-self: center;
+  width: auto;
+  max-height: 80vh; 
+  object-fit: contain;
+}
+
+.underText {
+  margin-top: 5vh;
+  color: hsl(194, 19%, 79%);
+  border-left: 1px solid;
+  text-align: left;
+  padding-left: .5vw;
+}
