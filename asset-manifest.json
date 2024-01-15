@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nasa-image-of-the-day/static/css/main.91a244d5.css",
+    "main.js": "/nasa-image-of-the-day/static/js/main.1d0a5611.js",
+    "static/js/787.9ce3d204.chunk.js": "/nasa-image-of-the-day/static/js/787.9ce3d204.chunk.js",
+    "static/media/logo.svg": "/nasa-image-of-the-day/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nasa-image-of-the-day/index.html",
+    "main.91a244d5.css.map": "/nasa-image-of-the-day/static/css/main.91a244d5.css.map",
+    "main.1d0a5611.js.map": "/nasa-image-of-the-day/static/js/main.1d0a5611.js.map",
+    "787.9ce3d204.chunk.js.map": "/nasa-image-of-the-day/static/js/787.9ce3d204.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a244d5.css",
+    "static/js/main.1d0a5611.js"
+  ]
+}
